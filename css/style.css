@@ -1,0 +1,24 @@
+.background{
+    background-color: #264653;
+}
+.blended{
+    mix-blend-mode:darken;
+}
+.text-color{
+    color:#E76F51;
+}
+.button-color{
+    background-color:#E76F51;
+}
+.button-style{
+        color: white;
+        border-radius:10px ;
+        width: 30%;
+        flex-direction: row;
+        align-items: center;
+        padding: 10px;
+
+}
+.filled{
+    color:#E76F51;
+}

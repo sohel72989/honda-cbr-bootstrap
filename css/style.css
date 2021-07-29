@@ -1,8 +1,8 @@
 .background{
     background-color: #264653;
 }
-.blended{
-    mix-blend-mode:darken;
+.luminosity{
+    mix-blend-mode: luminosity;
 }
 .text-color{
     color:#E76F51;
